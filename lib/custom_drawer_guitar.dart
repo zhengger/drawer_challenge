@@ -2,6 +2,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 
+//TODO add round corner to the drawer
 class CustomGuitarDrawer extends StatefulWidget {
   final Widget child;
 
